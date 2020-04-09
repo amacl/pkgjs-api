@@ -1,5 +1,5 @@
 {
-  "name": "@amacl/api",
+  "name": "@amaris-pkgsjs/api",
   "version": "1.0.0",
   "description": "package based on express for api",
   "author": "Pablo Rebolledo Acosta",
@@ -14,7 +14,6 @@
     "test": "jest --coverage --detectOpenHandles",
     "build": "microbundle"    
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/prebolledo" },  
   "dependencies": {
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
