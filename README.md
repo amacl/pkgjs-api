@@ -1,11 +1,11 @@
-# @amaris/api
+# @amacl/api
 
 Package based on express for api
 
 ## Install
 
 ```sh
-$ npm install @amaris/api
+$ npm install @amacl/api
 ```
 
 ## Use
@@ -13,7 +13,7 @@ $ npm install @amaris/api
 In your index.js
 
 ```js
-import api from '@amaris/api'
+import api from '@amacl/api'
 
 api({
     prefix: process.env.API_PREFIX || '/',        
